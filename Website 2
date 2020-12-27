@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Poornima M</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    
+    <table background = "https://deedrickmachine.com/wp-content/uploads/gradient-header-1200x215.jpg" width = "100%" height = "50"></table>
+        <h1>About Me!</h1>
+        <p>
+            <img src="data:image/jpeg;base64,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" alt="Girl in a jacket">
+            <br>
+            Greetings!
+            <br>
+            <br>
+            I am Poornima M, pursuing B.Tech in Electronics and Communication at Govt. Model Engineering College, Cochin.
+            Skilled in the following technologies, I look forward to an opportunity to pursue my career in software development.
+    
+            <h2>Technical Skills</h2>
+            <ol>
+                <li>C++</li>
+                <li>Python 3</li>
+                <li>HTML</li>
+                <li>HFSS</li>
+            </ol>
+            <h2>Soft Skills</h2>
+            <ol>
+                <li>Critical Thinking</li>
+                <li>Leadership Skills</li>
+                <li>Team Work</li>
+            </ol>
+            <h2>Contact Me:</h2>
+            <ol>
+                <li>LinkedIn: <a href = "https://www.linkedin.com/in/poornima-m-7696a0177/" target = "_blank">Poornima M</a></li>
+                <li>Email Id: poornimamani.mec@gmail.com</li>
+            </ol>
+    <table background = "https://deedrickmachine.com/wp-content/uploads/gradient-header-1200x215.jpg" width = "100%" height = "50"></table>
+</body>
+</html>
+
+
